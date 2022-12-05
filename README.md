@@ -1,6 +1,6 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Hi,&nbsp;I'm&nbsp;Yunjin!&fontSize=90" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Hello,&nbsp;I'm&nbsp;dahye!&fontSize=90" />
 <div align = "center">
-:책:Studying🐞
+  <h3>✏️ studying </h3>
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=GitHub&logoColor=white">
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=white">
 <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=white">
@@ -12,18 +12,15 @@
 <img src="https://img.shields.io/badge/NGINX-009639?style=for-the-badge&logo=NGINX&logoColor=white">
 <img src="https://img.shields.io/badge/Socket.io-010101?style=for-the-badge&logo=Socket.io&logoColor=white">
 
-  <br>
-  <br>
-### :망치와_렌치: Platform
-<img src="https://img.shields.io/badge/Visual Studio Code-007ACC?style=for-the-badge&logo=Visual Studio Code&logoColor=white">
+
   <br>
   <br>
   <hr>
-### :대문자_abcd: Languages
+  <h3>📝 Languages 📝</h3>
 <div align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dahye24&layout=compact">	</div>	
   <br>
-### :번쩍:️ GitHub Stats
+  <h3>🐞 GitHub Stats</h3>
 <div align="center"><img src="https://github-readme-stats.vercel.app/api?username=dahye24&theme=tokyonight&show_icons=true"> </div>
   <br>
- ### :뱀: My GitHub
+  <h3>🎮 My GitHub</h3>
   ![snake gif](https://github.com/dahye24/dahye24/blob/output/github-contribution-grid-snake.svg)
