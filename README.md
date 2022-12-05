@@ -23,3 +23,4 @@
 <div align="center"><img src="https://github-readme-stats.vercel.app/api?username=dahye24&theme=tokyonight&show_icons=true"> </div>
   <br>
   <h3>🎮 My GitHub</h3>
+  ![snake gif](https://github.com/dahye24/dahye24/blob/output/github-contribution-grid-snake.svg)
