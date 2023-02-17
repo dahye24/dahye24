@@ -17,7 +17,7 @@
   <br>
   <hr>
   <h3>✏️ Languages</h3>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dahye24&layout=compact">
+<div align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dahye24&layout=compact"></div>
   <br>
   <h3>🐞 GitHub Stats</h3>
 <div align="center"><img src="https://github-readme-stats.vercel.app/api?username=dahye24&theme=tokyonight&show_icons=true"> </div>
